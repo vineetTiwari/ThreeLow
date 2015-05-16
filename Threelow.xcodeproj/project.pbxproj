@@ -416,6 +416,7 @@
 				96B4A1BF1B02DCA000D66E8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		96B4A1C01B02DCA000D66E8A /* Build configuration list for PBXNativeTarget "ThreelowTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				96B4A1C21B02DCA000D66E8A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
